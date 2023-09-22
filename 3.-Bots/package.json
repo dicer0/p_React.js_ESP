@@ -1,0 +1,18 @@
+{
+  "name": "11.-bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "usandoBots.js",
+  "dependencies": {
+    "bootbot": "^1.0.14",
+    "express": "^4.16.3",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
