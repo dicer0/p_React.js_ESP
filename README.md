@@ -11,4 +11,4 @@ And this specific repository contains documentation about the React.js framework
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/09/p_React.js.jpg)](https://dicer0.com/#skills)
+[![React.js](http://dicer0.com/wp-content/uploads/2023/09/p_React.js.jpg)](https://dicer0.com/#skills)
